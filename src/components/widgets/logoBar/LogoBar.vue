@@ -27,4 +27,4 @@ export default {
 }
 </script>
 
-<style lang="scss" src=".\_LogoBar.scss" />
+<style lang="scss" src=".\scss/_LogoBar.scss" />
