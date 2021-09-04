@@ -12,3 +12,17 @@ In the project directory, you can run:
 -  Open <a href="http://localhost:3000" target="_blank" alt="">http://localhost:3000</a> to view it in the browser.
 
 _The page will reload if you edit it_.
+***
+
+
+- Build with:
+- - HTML5
+- - CSS
+- - - CSS Libraries
+- - SASS
+- - JavaScript
+- - Vue.JS
+- - - VueX
+- - - Vue-Router
+- - - Vue-tranitions
+- - - Vite
