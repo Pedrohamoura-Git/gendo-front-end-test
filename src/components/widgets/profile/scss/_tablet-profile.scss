@@ -1,0 +1,12 @@
+@import '../../../../assets/scss/index.scss';
+
+#profile {
+  @include tablet {
+    gap: 2rem;
+    
+    .profile__img {
+      height: 70px;
+      width: 70px;
+    }
+  }
+}

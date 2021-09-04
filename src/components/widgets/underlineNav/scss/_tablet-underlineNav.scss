@@ -1,0 +1,17 @@
+@import '../../../../assets/scss/index.scss';
+
+#underlineNav {
+
+  @include tablet {
+    align-self: end;
+    justify-content: flex-start !important;
+    max-height: 60px;
+  }
+
+  .underlineNav__link {
+
+    @include tablet {
+      width: 200px !important;
+    }
+  }
+}

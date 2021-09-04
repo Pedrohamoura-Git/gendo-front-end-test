@@ -1,0 +1,40 @@
+@import '../../../../assets/scss/index.scss';
+
+.newUser {
+  align-self: center;
+  border: 2px solid $color-border;
+  border-radius: 5px;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 1rem;
+  margin: 2rem 0;
+  padding: 0 1rem;
+  position: relative;
+  width: $wrapper-width;
+  max-width: 350px;
+  
+  svg {
+    path {
+      fill: $color-border-darker;
+    }
+  }
+  
+  .newUser__input {
+    border: none;
+    font-size: 2rem;
+    height: 40px;
+    width: $wrapper-width;
+    
+    &:focus {
+      outline: none;
+    }
+    
+    &:placeholder-shown {
+      font-size: 1.3em;
+    }
+  }
+}
+@import './_tablet-newUserInput';
+@import './_desktop-newUserInput';
