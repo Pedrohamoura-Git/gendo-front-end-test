@@ -25,4 +25,4 @@ _The page will reload if you edit it_.
 - - - VueX
 - - - Vue-Router
 - - - Vue-tranitions
-- - - Vite
+  - - - Vite
