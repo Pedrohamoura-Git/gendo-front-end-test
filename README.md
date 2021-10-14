@@ -26,3 +26,4 @@ _The page will reload if you edit it_.
 - - - Vue-Router
 - - - Vue-tranitions
   - - - Vite
+- - RESTful API
