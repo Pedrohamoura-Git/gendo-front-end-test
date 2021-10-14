@@ -1,7 +1,7 @@
 # gendo-front-end-test
-A Search app using Vue.js that fetches data from the Github API.
+A Search app using Vue.js that fetches data from the Github API. Created for the Gendo front-end test. 
 
-- Live Site : <a href="https://gendo-frontend-test-github-api.netlify.app" target="_blank" alt="">gendo-frontend-test</a>
+- Live Site : <a href="https://pedro-github-profiles.netlify.app" target="_blank" alt="">gendo-frontend-test</a>
 ***
 
 In the project directory, you can run:
